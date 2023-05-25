@@ -240,5 +240,6 @@
 		spnDecstatus.innerHTML='<p>File decrypted.</p>';
 		aDecsavefile.hidden=false;
 	}
+	
 
 </script>
